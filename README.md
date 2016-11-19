@@ -17,4 +17,4 @@ At sum:
 1000 lines of code on C/C++.
 Total time 3 weeks.
 
-Watch it at: http://ded32.net.ru/news/2015-09-02-77
+Watch it on: http://ded32.net.ru/news/2015-09-02-77

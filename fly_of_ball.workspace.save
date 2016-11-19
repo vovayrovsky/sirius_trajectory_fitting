@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="give_rand/give_rand.cbp" />
+		<Project filename="analyzer/analyzer.cbp" />
+		<Project filename="photos/photos.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

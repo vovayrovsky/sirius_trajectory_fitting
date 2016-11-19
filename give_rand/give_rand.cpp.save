@@ -1,0 +1,9 @@
+#include "TXLib.h"
+
+int main()
+{
+FILE* outt = fopen("DATA.dat", "w");
+assert (outt);
+
+double v0 = random
+}

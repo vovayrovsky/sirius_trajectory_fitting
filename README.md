@@ -7,10 +7,14 @@ To compile:
     TXLib           - http://ded32.net.ru/
     Code :: Blocks  - http://ded32.net.ru/
   
-2. Open project file
-3. Compile
-4. ...
-5. PROFIT
+2. Open workspace file
+3. Select project
+4. Compile
+5. Repeat for all projects
+6. ...
+7. PROFIT
+
+There is compiled version in FINAL floder
 
 At sum:
 
